@@ -1,0 +1,14 @@
+**/build
+**/.gradle
+**/gen
+**/*.csv
+**/bin
+**/dex-cache/cache.xml
+.idea
+**/*.iml
+local.properties
+**/local.properties
+
+# git backup files
+*.orig
+*/google-services.json
